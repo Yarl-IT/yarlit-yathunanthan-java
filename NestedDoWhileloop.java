@@ -6,7 +6,7 @@ class NestedDoWhileloop{
 			do{
 				System.out.print(z);
 				z++;
-			}while(z<=5);
+			}while(z<=3);
 			System.out.println(y);
 			y++;
 		}while(y<=5);
